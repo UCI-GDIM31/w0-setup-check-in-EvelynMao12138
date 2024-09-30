@@ -5,18 +5,11 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 
 ## Introduction
 
-1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
+1. Evelyn Mao, she/her. I'm more interested in games like Read Dead and Undertale, which has good story lines and interesting characters. I also play some souls-like games, but not much. Overally, I enjoy games with slow pace and not too competitive. I attended some gamejams before, but they are all male-oriented, so I wish I can learn coding so that I can make my own game. I hope to build a game with interesting story and has some deep meanings.
+2.  - [√ ] Other (U/U switching to GDIM)
 
-2. Which of the following best describes your major? Please specify if not GDIM.  
-
-    - [ ] Game Design & Interactive Media
-    - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
-    - [ ] Art-related major (please specify)
-    - [ ] Undecided
-    - [ ] Other (please specify)
-
-3. What are you hoping to get out of this class?
-4. What, if anything, are you nervous about for this class?
+3. Learn some basic coding skills, because I have no programming backgrounds, or at lease be able to make some pixel games and know whether something is feasible to acheive in programming. XD
+4. Cooperating with classmates. I'm worried about whether I have to obey someone's ideas and do works for them. I tend to prefer making my own game, even if it looks dumb and simple. I was a little traumatized by the past few gamejams and I don't want to be the 2d artist anymore. Not only because I didn't have my drawing skills improved, but also because I have no chance to engage in world-building and construction of mechanisms.
 
 ## Prior Experience
 
@@ -24,11 +17,11 @@ The next questions ask about what (if any) prior experience you have. This class
 
 ### Development
 
-1. Programming (any languages/ frameworks)
+1. N/A
 
-2. Game development (any engine)
+2. Unreal, but still learning
 
-3. Unity
+3. N/A
 
 ### Programming & Game Development Concepts
 
@@ -39,15 +32,15 @@ For the next questions, a programming or game development concept is presented:
 
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
-1. Game design document
+1. Is it like a google doc that people can work together and brainstorm ideas for games?
 
-2. Scope management
+2. N/A
 
-3. Iteration
+3. N/A
 
-4. Object-Oriented programming
+4. Is it character-based or plot based games?
 
-5. Model-View-Controller architecture
+5. N/A
 
 ## Complete!
 
